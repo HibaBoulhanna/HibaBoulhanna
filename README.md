@@ -69,8 +69,8 @@ To see all the other badges are [here](https://www.credly.com/users/hiba-boulhan
 
 🧐 **Knowledge of:**<br>
 
-`Technical Analysis`,  `Machine Learning`, `Deep Learning`, `Text Mining `, `Statistics`, `Finance`, `Object-Oriented Programming`, `data structures and algorithms,
-Data Management,Data Vizualization`.
+`Technical Analysis`,  `Machine Learning`, `Deep Learning`, `Text Mining `, `Statistics`, `Finance`, `Object-Oriented Programming`, `data structures and algorithms`,
+`Data Management`,`Data Vizualization`, `CRM Analytics`.
 
 
 
