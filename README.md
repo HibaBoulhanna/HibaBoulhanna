@@ -28,7 +28,7 @@ https://simpleicons.org/
     interested in <b><font color="#763568">Machine learning</font>, <font color="#763568">Deep learning, and Finance</font></br></p>  
  <br>
  
- - 🔭 I’m currently working on Data science projects
+ - 🔭 I’m currently preparing TensorFlow Developer certification
 - 🌱 I’m currently learning new skills
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with My projects
