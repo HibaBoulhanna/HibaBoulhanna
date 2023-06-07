@@ -54,7 +54,12 @@ To see all the other badges are [here](https://www.credly.com/users/hiba-boulhan
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+--------------------------------------------------------------------------
+💹 Github Stats
 
+![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibaBoulhanna&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HibaBoulhanna&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
