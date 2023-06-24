@@ -53,7 +53,7 @@ To see all the other badges are [here](https://www.credly.com/users/hiba-boulhan
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 --------------------------------------------------------------------------
 💹 Github Stats
 
