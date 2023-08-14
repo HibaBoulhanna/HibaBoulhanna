@@ -21,7 +21,7 @@ https://simpleicons.org/
 <h2 align='center'><samp><strong>Hi there 👋, I am Hiba BOULHANNA 
 </strong></samp></h2>
 <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank"></a></strong></h3>
-<p align='center'>Data scientist | Quantitative Analyst| Azure Engineer</p>
+<p align='center'>Data scientist | Quantitative Analyst| Azure Engineer |blogger </p>
 <p align="center" >
     <img width="70" src="https://www.pikpng.com/pngl/b/523-5234445_tri-force-heroes-emoticons-icons-for-you-and.png"/> <br>
     Hi, I'm a Data Scientist Engineer, from <b><font color="#19B5FE">INSEA Morocco and Sorbonne university in Paris</font></b><br>
