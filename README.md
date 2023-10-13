@@ -15,7 +15,12 @@ https://simpleicons.org/
 ](https://www.linkedin.com/in/hibab-702745191/)
 ![Mail](https://img.shields.io/badge/Gmail-hiba.boulhanna@gmail.com-red?logo=Gmail&logoColor=&labelColor=black)
 
-
+<br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center"><img src="https://komarev.com/ghpvc/?username=HibaBoulhanna&style=flat-square&color=blue" alt=""/></div>
+<br>
 
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Hiba BOULHANNA 
